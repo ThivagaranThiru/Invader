@@ -11,6 +11,4 @@ Gauche	: "Aller vers la gauche"
 Droite	: "Aller vers la droite"
 Espace  : "Pour tirer des missiles"
 
-La limite de mon jeu, vous pouvez tirer des missiles et si un des vaisseaux est détruit les autres du même type ne bougent plus alors que les autres types de vaisseaux bougent. Le plus gros problème c'est avec le poll, par exemple quand je bougais le vaisseau joueur avec les touches des claviers les vaisseaux ennemies ne bougaient plus. Après quelques recherchent, j ai trouvé qu il fallait utiliser un gettimeofday et une struct timeval. 
-
 
