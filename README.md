@@ -14,4 +14,6 @@ Gauche	: "Aller vers la gauche"
 Droite	: "Aller vers la droite"
 Espace  : "Pour tirer des missiles"
 
+Technologies utilisées : C, Sublime Text.
+
 
